@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppNotas</string>
+    <string name="no_notas_available">No hay notas disponibles.</string>
+    <string name="Dismiss">Cancelar</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="Delete">Nota a eliminar</string>
+    <string name="Update">Nota a actualizar</string>
+    <string name="Add">Nota Nueva</string>
+    <string name="Action_Undone">La nota será eliminada y no podrá revertirse.</string>
+    <string name="Action_update">La nota será modificada.</string>
+    <string name="Action_add">La nota será agregada.</string>
+</resources>
